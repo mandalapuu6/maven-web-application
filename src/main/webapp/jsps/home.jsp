@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to  Akhil Surya Technologies. Ph No: +91-9900012028</h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps & Cloud, Python, Java & Node JS </h1>
+<h1 align="center"> surya Technologies- Very Good Training center for DevOps & Cloud, Python, Java & Node JS </h1>
 
 <h2> Trainer Name: Balaji Reddy Lachhannagari</h2>
 <hr>
